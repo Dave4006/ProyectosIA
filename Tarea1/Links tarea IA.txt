@@ -1,0 +1,12 @@
+Attribute Information:
+
+Iy (Load Current)
+PF (Power factor)
+e (Power factor error)
+dIf (Changing of excitation current of synchronous machine)
+If (Excitation current of synchronous machine)
+
+https://www.scribbr.com/statistics/outliers/
+https://careerfoundry.com/en/blog/data-analytics/how-to-find-outliers/#how-to-find-outliers
+https://www.statology.org/normalize-data-between-0-and-1/
+https://www.tensorflow.org/tutorials/keras/regression?hl=es-419#el_set_de_datos_de_mpg
